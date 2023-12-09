@@ -1,2 +1,2 @@
 # ChatGPT
-Discord Bot that allows users to generate prompts in discord.
+Discord Bot that allows users to interact with OpenAI and generate responses to prompts.
