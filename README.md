@@ -1,2 +1,4 @@
 # ChatGPT Bot
-A Discord bot integrating ChatGPT in Discord channels.
+
+# Introduction
+ChatGPT bot is a Discord bot developed using [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/). Serving as a proof of concept, this application allows users to query and receive responses from GPT-3.5 within their discord server.
